@@ -1,6 +1,6 @@
 <!--  PROFILE VISIT COUNTER  -->
   <tr>
-   <p align="top"> <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif& label=Profile%20views&color=36363b&style=flat" alt="codersonamsingh" /></p>
+   <p align="top"> <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="codersonamsingh" /></p>
   </tr>
 
 <!--  PROFILE HEADER RHS IMAGE  -->
