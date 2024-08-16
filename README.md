@@ -5,7 +5,7 @@
 
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
-  <img src="https://github.com/codersonamsingh/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+  <img src="https://imgflip.com/gif/7i5l8h" align="right" width="35%" alt="codersonamsingh">
 </picture>
 
 <!--  PROFILE HEADER INTRO (LHS)  -->
